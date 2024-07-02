@@ -11,9 +11,9 @@ To analyze the trends and patterns in using various payment methods in Brazil, a
 ### 1. Data Source: 
   - Clovis Vieira Kaggle [Database project](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods).
 #### 2. Data Ingestion: 
-Use Databricks to create a pipeline to ingest data.
-  - Utilize Databricks Community Edition for development.
-  - Leverage Spark for data ingestion and processing.
+Used Databricks to create a pipeline to ingest data.
+  - Utilized Databricks Community Edition for development.
+  - Leveraged Spark for data ingestion and processing.
   
 ## Data Set Story:
 The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Brazilian Payment Methods](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data) and uploaded into a cloud environment Databricks.

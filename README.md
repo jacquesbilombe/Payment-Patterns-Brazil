@@ -1,12 +1,22 @@
 # Payment-Patterns-Brazil
-Payment Patterns Brazil" is a data pipeline project leveraging cloud technologies to analyze consumer trends in Brazilian payment methods. This project involves data collection, modeling, loading, and analysis using Databricks and other cloud platforms. Explore insights on payment behaviors and trends across Brazil.
+To analyze the trends and patterns in using various payment methods in Brazil, and to understand their impact on the financial ecosystem. The key questions to be answered include:
 
-### Credits
-- First, it goes to Clovis Vieira, whose [project](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods) served as a reference for this work.
-- Secondly, credit goes to the PUC-RIO Library and the materials provided by the professors.
+1. How has the adoption of different payment methods evolved?
+2. What are the most and least popular payment methods?
+3. How do the total values of transactions compare across different payment methods?
+4. Are there seasonal or monthly trends in using these payment methods?
+5. What insights can be derived from the transaction volumes and values about consumer behavior?
+
+## Data Collection and Ingestion
+### 1. Data Source: 
+  - Clovis Vieira Kaggle [Database project](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods).
+#### 2. Data Ingestion: 
+Use Databricks to create a pipeline to ingest data.
+  - Utilize Databricks Community Edition for development.
+  - Leverage Spark for data ingestion and processing.
   
-### Data Set Story:
-The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Brazilian Payment Methods](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data)
+## Data Set Story:
+The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Brazilian Payment Methods](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data) and uploaded into a cloud environment Databricks.
 
 - It consists of 101 observations and 13 variables.
 - Independent variables contain information about payment methods.

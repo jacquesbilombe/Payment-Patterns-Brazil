@@ -8,9 +8,9 @@ Payment Patterns Brazil" is a data pipeline project leveraging cloud technologie
 ### Data Set Story:
 The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Brazilian Payment Methods](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data)
 
-- It consists of 10000 observations and 12 variables.
-- Independent variables contain information about customers.
-- The dependent variable refers to customer abandonment.
+- It consists of 101 observations and 13 variables.
+- Independent variables contain information about payment methods.
+
 
 ### Features:
 

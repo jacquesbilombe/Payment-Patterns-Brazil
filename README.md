@@ -2,7 +2,7 @@
 Payment Patterns Brazil" is a data pipeline project leveraging cloud technologies to analyze consumer trends in Brazilian payment methods. This project involves data collection, modeling, loading, and analysis using Databricks and other cloud platforms. Explore insights on payment behaviors and trends across Brazil.
 
 ### Credits
-- First, it goes to Clovis Vieira, whose [notebook](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods) served as a reference for this work.
+- First, it goes to Clovis Vieira, whose [project](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods) served as a reference for this work.
 - Secondly, credit goes to the PUC-RIO Library and the materials provided by the professors.
   
 ### Data Set Story:

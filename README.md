@@ -7,6 +7,8 @@ To analyze the trends and patterns in using various payment methods in Brazil, a
 4. Are there seasonal or monthly trends in using these payment methods?
 5. What insights can be derived from the transaction volumes and values about consumer behavior?
 
+From the data fetching process to the construction of the Data Lake, each step of this project was documented inside the .ipynb (Google Colab) file.
+
 ## Data Collection and Ingestion
 ### 1. Data Source: 
   - Clovis Vieira Kaggle [Database project](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods).
@@ -20,6 +22,7 @@ The dataset was downloaded from Kaggle, an online platform for data scientists, 
 
 - It consists of 101 observations and 13 variables.
 - Independent variables contain information about payment methods.
+- The dataset was uploaded into [Google Cloud Storage](https://cloud.google.com/?hl=pt-BR).
 
 
 ### Features:

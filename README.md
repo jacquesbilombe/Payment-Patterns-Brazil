@@ -5,7 +5,6 @@ To analyze the trends and patterns in using various payment methods in Brazil, a
 2. What are the most and least popular payment methods?
 3. How do the total values of transactions compare across different payment methods?
 4. Are there seasonal or monthly trends in using these payment methods?
-5. What insights can be derived from the transaction volumes and values about consumer behavior?
 
 From the data fetching process to the construction of the Data Lake, each step of this project was documented inside the .ipynb (Google Colab) file.
 

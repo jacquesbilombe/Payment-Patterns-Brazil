@@ -12,9 +12,9 @@ From the data fetching process to the construction of the Data Lake, each step o
 ### 1. Data Source: 
   - Clovis Vieira Kaggle [Database project](https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods).
 #### 2. Data Ingestion: 
-Used Databricks to create a pipeline to ingest data.
-  - Utilized Databricks Community Edition for development.
-  - Leveraged Spark for data ingestion and processing.
+Used Google Console to create a pipeline to ingest data.
+  - Utilized Google Cloud Storage to load the Raw and Processed Data.
+  - Implemented queries with Google Console BigQuery.
   
 ## Data Set Story:
 The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Brazilian Payment Methods](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data) and uploaded into a cloud environment Databricks.

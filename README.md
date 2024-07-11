@@ -45,8 +45,9 @@ The dataset was downloaded from Kaggle, an online platform for data scientists, 
 Before running PaymentPatternsBrazil, make sure you have the following requirements:
 
 - Python 3.9 or higher
+- Have Google account
   
 
 ## Run Environment
 
-Everything was developed into a Google Colab Notebook for the project's current version. However, a local version (.py) will be deployed sooner.
+Everything was developed into a Google Colab Notebook for the project's current version.
